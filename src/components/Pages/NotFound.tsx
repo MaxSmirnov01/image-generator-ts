@@ -1,6 +1,6 @@
 import { Box, Button, CardMedia } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
-import notFound from '../../assets/notFound.png';
+import notFound from '/src/assets/notFound.png';
 import routes from '../../router/paths';
 
 const NotFound = () => (
